@@ -1,7 +1,13 @@
 ![Screenshot (124)](https://github.com/opi1001/Calculator_Design_App/assets/134625691/f1a62f6f-bf98-4029-bfd1-60cd2c839c5d)
 # own_calculator_make_app
 
-A new Flutter project.
+
+"🚀 Just I am doing  designing a Flutter calculator app! 📱
+Mastering UI/UX for functional elegance. 💡
+Excited to showcase my skills in creating intuitive user interfaces. 🌐 
+From layout design to functionality, every button counts in Flutter calculator apps. 
+Ready for the next challenge in mobile app development. 
+Let's connect and explore more innovative app designs! 
 
 ## Getting Started
 
