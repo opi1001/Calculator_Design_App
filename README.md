@@ -1,3 +1,4 @@
+![Screenshot (124)](https://github.com/opi1001/Calculator_Design_App/assets/134625691/f1a62f6f-bf98-4029-bfd1-60cd2c839c5d)
 # own_calculator_make_app
 
 A new Flutter project.
